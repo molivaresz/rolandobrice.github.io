@@ -1,0 +1,23 @@
+
+
+.size_imagen {
+    width: 25em;
+    height:30em;
+}
+
+.header-text span {
+    font-size: 3em;
+    font-weight: 600;
+    color:grey;
+}
+
+.header-text h1 {
+    font-size: 4em;
+    color: rgb(241, 189, 17);
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0 25px 0;
+}
+
+
+
+
